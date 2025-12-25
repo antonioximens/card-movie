@@ -8,4 +8,3 @@ O foco principal está em:
 - Compreender como o React organiza a interface
 - Praticar a criação e renderização de componentes
 
-Este repositório faz parte do meu processo de aprendizado em React e será evoluído conforme novos conceitos forem estudados.
