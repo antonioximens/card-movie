@@ -1,0 +1,46 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+}
+
+.card {
+  display: flex;
+  gap: 1.1rem;
+  width: 80%;
+  height: 34rem;
+  background-color: #e6ecff;
+  border-radius: 20px;
+}
+
+.image {
+  width: 22rem;
+  height: 30rem;
+  margin: 2rem;
+  box-shadow: 0 24px 32px -16px rgba(0, 0, 0, 0.749);
+}
+
+.textCard {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+  padding: 2rem 1rem;
+}
+
+.description {
+  font-weight: 200;
+  line-height: 1.5rem;
+  width: 90%;
+}
+
+.button {
+  width: 8rem;
+  height: 2.5rem;
+  background-color: #0b0b0c;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
